@@ -21,8 +21,6 @@
     "es6-shim": "^0.35.0",
     "del": "^2.2.0",
     "gulp": "^3.9.1",
-    "gulp-concat-css": "^2.2.0",
-    "gulp-minify-css": "^1.2.4",
     "gulp-sass": "^2.2.0",
     "gulp-sourcemaps": "^2.0.0-alpha",
     "gulp-typescript": "^2.13.0",
@@ -46,7 +44,8 @@
     "lite-server": "^2.2.0",
     "lodash": "^4.11.1",
     "protractor": "^3.3.0",
-    "rimraf": "^2.5.2"
+    "rimraf": "^2.5.2",
+    "tslint": "^3.7.4"
   },
   "repository": {}
 }
