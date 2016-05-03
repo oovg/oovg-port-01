@@ -10,7 +10,7 @@ gulp.task('clean', function(cb) {
 });
 
 gulp.task("move-index-html", function() {
-  return gulp.src(["app/index.html"], { nodir: true }).pipe(gulp.dest("build"));
+  return gulp.src(["app/index.html", "favicon.ico"], { nodir: true }).pipe(gulp.dest("build"));
 });
 
 /**
