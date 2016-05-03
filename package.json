@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Sample Angular2 application with gulp, sass and heroku integrated workflow.",
   "engines": {
-    "node": "5.10.1"
+    "node": ">=5.0.0 <6.0.0"
   },
   "scripts": {
     "start": "gulp cleanup && tsc && http-server build -p",
