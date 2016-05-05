@@ -2,7 +2,7 @@
 
 ## Requirements
 Node.js binary is required for this project
-Node version **5.10.1** was used while creating this project.
+Node version **4.0.0 or greater** is required.
 For instructions about installing Node.js, refer [Node.js Website](https://nodejs.org/en/)
 
 ## Getting started
