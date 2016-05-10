@@ -1,5 +1,9 @@
 ## Angular2-SASS-gulp-Heroku boilerplate
 
+## [Deprecated] in favor of angular-cli generated Angular2 app with similar functionality. Checkout [angular-cli-sass-heroku](https://github.com/tushar-chauhan/angular-cli-sass-heroku)
+
+This repository still works, but the project structure is based on [Angular2 startup project](https://github.com/angular/quickstart)
+
 ## Requirements
 Node.js binary is required for this project
 Node version **4.0.0 or greater** is required.
