@@ -1,9 +1,9 @@
 {
-  "name": "angular2-sass-gulp-heroku-boilerplate",
+  "name": "oovg-port",
   "version": "1.0.0",
   "description": "Sample Angular2 application with gulp, sass and heroku integrated workflow.",
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=6.9.1"
   },
   "scripts": {
     "start": "gulp cleanup && tsc && http-server build -p",
